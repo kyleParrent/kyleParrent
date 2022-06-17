@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **kyleParrent/kyleParrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Kyle Parrent and im a full stack software developer. Ive lawys enjoyed building things ever since I was child. Whether it be legos, models, woodworking, or apps. 
