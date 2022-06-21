@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyleParrent)](https://github.com/kyleParrent/github-readme-stats)
 
-##💻 Technologies
+## 💻 Technologies
 
 ![image](https://user-images.githubusercontent.com/99702540/174908107-f9dfdf1e-cd00-4cc7-8a14-033ad652281a.png)
 ![image](https://user-images.githubusercontent.com/99702540/174908126-64a0ae33-beeb-44e9-82c5-3b29bec6a8e8.png)
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/99702540/174908048-51477bd1-34af-42fa-b9ce-49a08e86e624.png)
 
 
-##🧑🏻‍💻 About me
+## 🧑🏻‍💻 About me
 
-Hi everyone! I'm Kyle an aspiring full stack software developer. I’ve always enjoyed building projects ever since I was little. Whether it be Legos, models, woodworking, or apps. I am constantly looking for opportunities to improve my skill set and add to the tools I can use to create.
+Hi everyone! I'm Kyle an aspiring full stack software developer. I’ve always enjoyed building projects ever since I was little. Whether it be Legos, models, woodworking, or apps, I am constantly looking for opportunities to improve my skill set and add to the tools I can use to create.
 
-##🔗 Let's Connect
+## 🔗 Let's Connect
 
 [Linkedin](https://www.linkedin.com/in/kyle-parrent/)
