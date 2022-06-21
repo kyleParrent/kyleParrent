@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🧑🏻‍💻 About me
 
-Hi everyone! I'm Kyle an aspiring full stack software developer. I’ve always enjoyed building projects ever since I was little. Whether it be Legos, models, woodworking, or apps, I am constantly looking for opportunities to improve my skill set and add to the tools I can use to create.
+Hi everyone! I'm Kyle an aspiring full stack software developer. I’ve always enjoyed building projects ever since I was little. Whether it be models, woodworking, or apps, I am constantly looking for opportunities to improve my skill set and add to the tools I can use to create.
 
 ## 🔗 Let's Connect
 
